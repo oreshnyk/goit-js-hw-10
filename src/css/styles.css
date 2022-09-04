@@ -18,3 +18,11 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin: 0px;
+}
